@@ -1,0 +1,15 @@
+---
+title: "Create database for human footprint analyses"
+author: "Andrew Crosby"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output: github_document
+---
+
+
+# Create the database for analyzing risk of human footprint to migrating whooping cranes
+
+
+
+
+
+
