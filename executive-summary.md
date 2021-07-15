@@ -9,10 +9,10 @@ The last remaining wild, self-sustaining population of whooping cranes
 population (AWBP), containing approximately 500 individuals (Pearse et
 al. 2018). This population winters in the Aransas National Wildlife
 Refuge on the gulf coast of Texas, USA, and spends summers in an around
-Wood Buffalo National Park (WBNP) in northern Alberta, Canada and
-adjacent areas in Northwest Territories (Environment Canada 2007). The
-heavily industrialized Oil Sands Region (OSR) of northeastern Alberta is
-just south of the breeding grounds. Therefore, the majority of the AWBP
+Wood Buffalo National Park in northern Alberta, Canada and adjacent
+areas in Northwest Territories (Environment Canada 2007). The heavily
+industrialized Oil Sands Region (OSR) of northeastern Alberta is just
+south of Wood Buffalo National Park. Therefore, the majority of the AWBP
 passes through the OSR twice yearly during migration, creating potential
 direct and indirect risks to migrating individuals from industrial
 development (M. Bidwell, Environment and Climate Change Canada,
